@@ -1,0 +1,25 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "BackGround Generator Udacity Exercise",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoboFrank/backgroundGenerator.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b"
+  ],
+  "author": "Anozie Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoboFrank/backgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/BoboFrank/backgroundGenerator#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
